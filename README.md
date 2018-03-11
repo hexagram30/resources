@@ -1,4 +1,4 @@
-# hexagram30-resources
+# hexagram30/resources
 
 *Images for use by all hexagram30 projects*
 
